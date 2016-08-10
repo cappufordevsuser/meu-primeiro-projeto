@@ -1,0 +1,6 @@
+{
+  "name": "Meu primeiro projeto",
+  "tagline": "Meu primeiro projeto.",
+  "body": "# Título do projeto\r\n\r\nDescrição do projeto.\r\n\r\n## Comece por aqui\r\n\r\n### Dependências\r\n\r\nColoque aqui qualquer dependência do seu software e aponte para onde o usuário precisa ir para baixá-la.\r\n\r\n- [Dependência 1](https://github.com/cappufordevsuser/meu-primeiro-projeto/#) -- Você vai precisar disso\r\n- [Dependência 2](https://github.com/cappufordevsuser/meu-primeiro-projeto/#) -- Siga o link para baixar esta dependência\r\n- [Dependência 3](https://github.com/cappufordevsuser/meu-primeiro-projeto/#) -- Meu software não seria nada sem essa belezinha\r\n\r\n### Instalação\r\n\r\nColoque aqui o que o usuário precisa fazer para instalar o seu sofware.\r\n\r\n1. Baixe o pacote X;\r\n2. execute o comando <code>install meu-projeto-maneiro</code>.\r\n\r\n## Como usar\r\n\r\nApresente as funcionalidades e ensine como usá-las.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
